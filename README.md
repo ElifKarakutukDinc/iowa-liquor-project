@@ -45,3 +45,7 @@ Vendors can do campaigns in January, February and March. Because the least reven
 Vendors can do advertisements for beverages which are cheaper but people don’t choose them.  In this way, people can see and buy others with advertisements. 
 
 Vendors can do campaigns and advertisements at regions where they have lower sales counts.  
+
+You can peruse my Tableau account to see all dashboards about iowa-liquor-project. 
+
+MyTableau Account:https://tabsoft.co/2BRWqVz and https://tabsoft.co/2CkF3fS
