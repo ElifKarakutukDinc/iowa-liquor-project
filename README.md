@@ -49,4 +49,5 @@ Vendors can do campaigns and advertisements at regions where they have lower sal
 You can peruse my Tableau account to see all dashboards about iowa-liquor-project. 
 
 My Project Links:https://tabsoft.co/2BRWqVz and https://tabsoft.co/2CkF3fS
+
 My Tableau Public Account: https://public.tableau.com/profile/elif.karakutuk#!/ 
